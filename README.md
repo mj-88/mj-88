@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Information and Communications Technology.
+- 📫 How to reach me: choiminji@mju.ac.kr
+
+
+
 <!--
 **mj-88/mj-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
