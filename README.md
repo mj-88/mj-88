@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Information and Communications Technology.
 - 📫 How to reach me: choiminji@mju.ac.kr
-- 🔥 https://www.acmicpc.net/user/choiminji_1
+- 🔥 Baekjoon Algorithm : https://www.acmicpc.net/user/choiminji_1
 
 
 <!--
