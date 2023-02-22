@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Information and Communications Technology.
-- 📫 How to reach me: choiminji@mju.ac.kr
-
 - 🔥 Velog : https://velog.io/@daegari
 - 🔥 Baekjoon Algorithm : https://www.acmicpc.net/user/choiminji_1
 
