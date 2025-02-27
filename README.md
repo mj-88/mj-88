@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
-
+🌱 I’m currently learning mobile communication technologies.
+🔭 My research journey focuses on 5G/6G communication systems, LEO satellites, and IoE/AIoT.
+📧 My E-mail Address choiminji@mju.ac.kr
 
 
 <!--
